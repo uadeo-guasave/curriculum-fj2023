@@ -12,3 +12,6 @@ ESFI
 
 ## Bachillerato
 UAS
+
+## Licenciatura
+UDO Guasave
