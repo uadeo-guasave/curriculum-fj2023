@@ -9,3 +9,6 @@ Col. Guasave
 
 ## Secundaria
 ESFI
+
+## Bachillerato
+UAS
