@@ -6,3 +6,6 @@ Rodolfo T. Loaiza
 
 ## Primaria
 Col. Guasave
+
+## Secundaria
+ESFI
