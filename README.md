@@ -15,3 +15,6 @@ UAS
 
 ## Licenciatura
 UDO Guasave
+
+## Maestría
+UAdeO Guasave
